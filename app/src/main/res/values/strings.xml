@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Student System</string>
+
+    <string-array name="departmentArray">
+        <item>Computer Science CS</item>
+        <item>Software Engineering</item>
+        <item>Electrical Engineering</item>
+        <item>Civil Engineering</item>
+    </string-array>
+
+    <string-array name="degreeArray">
+        <item>Bachelor of Science</item>
+        <item>Master of Science</item>
+        <item>Doctorate</item>
+        <item>College</item>
+    </string-array>
+</resources>
